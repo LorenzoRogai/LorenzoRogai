@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lorenzo</h1>
 <h3 align="center">CTO at ShippyPro</h3>
 
-- 🔭 I’m currently working on [ShippyPro](https://shippypro.com/)
+- 🔭 I’m currently working on [ShippyPro](https://www.shippypro.com/)
 
 - 🌱 I’m currently learning **Bref Serverless 🚀**
 
